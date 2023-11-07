@@ -1,0 +1,43 @@
+header{
+    word-spacing: 20px;
+    display: inline;
+    background-color: darkgreen;
+    color: white;
+    margin:auto;
+    border: 2px white solid;
+    padding: 2px;
+}
+
+body{
+    background-color: #BBE7B9;
+}
+
+a{
+    text-decoration-color: darkgreen;
+}
+a:link{
+    color:green
+}
+a:visited{
+    color: darkgreen;
+}
+
+h2 span{
+background-color: darkgreen;
+color: white;
+}
+
+p span{
+background-color: #E7FFE5;
+}
+
+/*used the https://www.colorzilla.com/gradient-editor/ website to add gradient to the button*/
+button{
+background: linear-gradient(to bottom,  #627d4d 0%,#1f3b08 100%);
+color: white;
+
+}
+
+ul{
+    color: darkgreen;
+}
